@@ -17,7 +17,6 @@ namespace WebMartes
         }
 
         // otro cambio conflictivo en master
-        // Otro cambio en ramal sprint2
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
