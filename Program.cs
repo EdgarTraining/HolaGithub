@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+// Édgar Sánchez Gordón
 namespace WebMartes
 {
     // Nuevos cambios despues de crear el clon en github
