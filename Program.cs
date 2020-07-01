@@ -9,13 +9,14 @@ using Microsoft.Extensions.Logging;
 
 namespace WebMartes
 {
-    public class Program
+    public class Program // cambio conflictivo en master
     {
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
         }
 
+        // otro cambio conflictivo en master
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
