@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
 
+
 // HV modification
 
 
@@ -19,7 +20,9 @@ using Microsoft.Extensions.Logging;
 
 
 
-// HV modification
+
+//Modified GLL
+
 namespace WebMartes
 { 
 // Comentar lo mio para evitar conflicto por el momento
@@ -46,5 +49,7 @@ namespace WebMartes
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+        //Name: Juan Moyano
     }
 }
