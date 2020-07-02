@@ -9,13 +9,10 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-<<<<<<< HEAD
 // HV modification
-=======
-
-// Édgar Sánchez Gordón
->>>>>>> 5675498157ccf74aecf58fdb49c71428468c5311
 namespace WebMartes
+// Comentar lo mio para evitar conflicto por el momento
+//{ // Conflicto en camino con César
 {//César Betancurth
 //Carlos Silva
     // Nuevos cambios despues de crear el clon en github
