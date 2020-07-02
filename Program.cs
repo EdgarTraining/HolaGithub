@@ -1,5 +1,6 @@
 // Mijail osorio Repo Clone
-// El que hace Push Gana.... p
+// El que hace Push Gana.... 
+// Modifican en busca de Conflictos
 using System;
 using System.Collections.Generic;
 using System.Linq;
