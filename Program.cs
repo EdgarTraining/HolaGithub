@@ -19,7 +19,7 @@ namespace WebMartes
     {
         public static void Main(string[] args)
         {
-			//Andrea Rueda
+			//Andrea Rueda Conflito con Andrea (Mijail)
             CreateHostBuilder(args).Build().Run();
         }
         //Alex Morales
