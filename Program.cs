@@ -11,6 +11,7 @@ namespace WebMartes
 {
        public class Program // cambio conflictivo en master
     {
+        //cambios local conflicto
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
