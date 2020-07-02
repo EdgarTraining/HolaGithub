@@ -10,7 +10,7 @@ using Microsoft.Extensions.Logging;
 
 // Édgar Sánchez Gordón
 namespace WebMartes
-{
+{ // Conflicto en camino con César
     // Nuevos cambios despues de crear el clon en github
     // Estos cambios *eventualmente* se van a ir al clon
     public class Program // cambio conflictivo en master
