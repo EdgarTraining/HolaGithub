@@ -10,14 +10,22 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+
 // HV modification
 
 
 // Édgar Sánchez Gordón
  
-namespace WebMartes
 
-{//César Betancurth
+
+
+// HV modification
+namespace WebMartes
+{ 
+// Comentar lo mio para evitar conflicto por el momento
+//{ // Conflicto en camino con César
+
+//César Betancurth
  //Carlos Silva
 
     // Nuevos cambios despues de crear el clon en github
