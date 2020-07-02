@@ -1,5 +1,6 @@
 // Mijail osorio Repo Clone
-// El que hace Push Gana.... p
+// El que hace Push Gana.... 
+// Modifican en busca de Conflictos
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,9 +19,10 @@ namespace WebMartes
     {
         public static void Main(string[] args)
         {
+			//Andrea Rueda
             CreateHostBuilder(args).Build().Run();
         }
-
+        //Alex Morales
         // otro cambio conflictivo en master
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
